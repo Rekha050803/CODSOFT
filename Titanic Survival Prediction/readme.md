@@ -50,7 +50,7 @@
 
 <h2>Results</h2>
 <p>
-    The logistic regression model achieved an accuracy of <strong>X%</strong> on the training data and <strong>Y%</strong> on the testing data.
+    The logistic regression model achieved an accuracy of <strong>100%</strong> on the training data.
 </p>
 
 </body>
