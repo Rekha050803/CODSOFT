@@ -1,4 +1,4 @@
-<h1>Machine Learning Projects</h1>
+<h1>Data Science Internship Projects</h1>
 
 <p>This repository contains multiple machine learning projects that demonstrate various techniques and algorithms to solve different problems using datasets from various domains.</p>
 
